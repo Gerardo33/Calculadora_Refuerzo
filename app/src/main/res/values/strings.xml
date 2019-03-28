@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="bienvenida">Bienvenido</string>
+    <string name="Seno">sin(</string>
+    <string name="Coseno">cos(</string>
+    <string name="Tangente">tan(</string>
+    <string name="Exponencial">e^(</string>
+    <string name="Logaritmo">ln(</string>
+
+    <string name="titulo_menuop_mAcerca">Acerca de</string>
+    <string name="titulo_menuop_mAlbum">Album</string>
+    <string name="titulo_menuop_mBuscar">Buscar</string>
+    <string name="titulo_menuop_mAcercaDe_activity">Selecionaste la función acerca de</string>
+
+    <string name="informacion">Elaborado por:</string>
+    <string name="nombre">Gerardo Martínez Urbina</string>
+</resources>

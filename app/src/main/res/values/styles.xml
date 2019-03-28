@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BotonesCalculadora">
+        <item name="android:textSize">25dp</item>
+        <item name="android:minHeight">80dp</item>
+        <item name="android:textColor">@color/buttonsTextColor</item>
+        <item name="android:background">@drawable/btn_little</item>
+        <item name="android:layout_marginBottom">7dp </item>
+        <item name="android:layout_marginRight">7dp </item>
+        <item name="android:layout_marginLeft">7dp </item>
+        <item name="android:layout_marginEnd">7dp</item>
+
+
+
+    </style>
+
+    <style name="BotonesOperaciones">
+        <item name="android:textSize">25dp</item>
+        <item name="android:minHeight">80dp</item>
+        <item name="android:textColor">@color/buttonsTextColor</item>
+        <item name="android:background">@drawable/btn_operations</item>
+        <item name="android:layout_marginBottom">7dp </item>
+        <item name="android:layout_marginRight">7dp </item>
+        <item name="android:layout_marginLeft">7dp </item>
+        <item name="android:layout_marginEnd">7dp</item>
+    </style>
+
+
+
+</resources>
